@@ -1,6 +1,6 @@
 # Prerequisite
 
-Node.js
+React.js
 
 # Getting Started
 
